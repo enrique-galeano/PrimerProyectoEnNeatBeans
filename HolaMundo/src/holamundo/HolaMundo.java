@@ -17,6 +17,8 @@ public class HolaMundo {
 	public static void main(String[] args) {
 		// TODO code application logic here
 		System.out.println("Cada vez que ejecutamos un cambio agregamos git add -A");
+		System.out.println("Podemos usar commit para poder hacer comentarios");
+		System.out.println("Y para ver los cambios ejecutados en guthub hacemos git pushor");
 	}
 	
 }
